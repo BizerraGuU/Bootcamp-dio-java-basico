@@ -1,3 +1,5 @@
+package Conta;
+
 import java.util.Scanner;
 
 // esse aqui, é do professor, por algum motivo, mesmo que meu programa estivesse realizando a MESMA COISA, na hora do teste online ele reprovava, não entendi
