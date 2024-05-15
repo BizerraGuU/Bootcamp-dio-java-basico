@@ -1,19 +1,16 @@
 # Bootcamp-dio-java-#1
  Repository to store all basic java content from DIO's BootCamp
 
- [Link for challenge 1](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
- 
- [Link for challenge 2](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/exercicios/banco-terminal)
 
-[Link for challenge 3](https://github.com/marcosfshirafuchi/Desafio-Da-DIO-1-Operacoes-Bancarias-Simples-com-Switch)
-
-[Link for challenge 4](https://github.com/marcosfshirafuchi/Desafio-Da-DIO-2-Verifica-o-de-Numero-de-Conta-Bancaria)
-
-[Link for challenge 5](https://github.com/marcosfshirafuchi/Desafio-Da-DIO-3-Verificador-de-Idade-para-Conta-Bancaria)
-
-[Link for challenge 6](https://github.com/marcosfshirafuchi/Desafio-Da-DIO-4-Verificacao-de-Cheque-Especial)
-
-[Link for challenge 7](https://github.com/marcosfshirafuchi/Desafio-da-DIO-5-Controle-De-Saques)
+|Short explanation of the exercise|Link|
+|-|-|
+| The system must receive two parameters via the terminal that will represent two integers, with these two numbers you must obtain the number of interactions (for) and print the incremented numbers in the console (System.out.print)| [Challenge 1](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo) |
+|The program must simulate a withdrawal operation|[Challenge 2](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/exercicios/banco-terminal)|
+|You are developing a simple Java program to simulate basic banking operations. The application must allow the user to make deposits, withdrawals and check the balance in a virtual bank account|[Challenge 3](https://github.com/marcosfshirafuchi/Desafio-Da-DIO-1-Operacoes-Bancarias-Simples-com-Switch)|
+|You are developing a simple Java program to check whether a bank account number is valid. The account number must be exactly 8 digits long.|[Challenge 4](https://github.com/marcosfshirafuchi/Desafio-Da-DIO-2-Verifica-o-de-Numero-de-Conta-Bancaria)|
+|You are developing a simple Java program to check whether a bank account number is valid. The account number must be exactly 8 digits long.|[Challenge 5](https://github.com/marcosfshirafuchi/Desafio-Da-DIO-3-Verificador-de-Idade-para-Conta-Bancaria)|
+|You are developing a simple Java program to check whether a bank account has exceeded its overdraft limit. The application will ask the customer to enter the current balance in their bank account. Then, the program will ask for the amount of a withdrawal that the customer wants to make.|[Challenge 6](https://github.com/marcosfshirafuchi/Desafio-Da-DIO-4-Verificacao-de-Cheque-Especial)|
+|You are developing a simple Java program to help a customer make withdrawals from a bank account. The customer can make withdrawals until they reach a predefined daily limit.|[Challenge 7](https://github.com/marcosfshirafuchi/Desafio-da-DIO-5-Controle-De-Saques)|
 
 
 
